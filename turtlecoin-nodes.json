@@ -391,6 +391,13 @@
       "port": 11898,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "West Europe node",
+      "url": "79.44.48.4",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
     }
   ]
 }
